@@ -2,4 +2,4 @@
 
 ## how to publish
 
-With VSC Plugin **Live Server** **And Ngrok**
+With VSC Plugin **Live Server** And **Ngrok**
